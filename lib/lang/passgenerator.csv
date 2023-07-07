@@ -1,0 +1,109 @@
+Key,English|en|us,Turkish|tr|tr,Deutsch|de|de,French|fr|f,한국인|kr|kr,español|ep|ep
+Password_Generator,Password Generator,Şifre Üretici,Passwort Generator,Générateur de mot de passe,비밀번호 생성기,Generador de contraseñas
+Character_lenght,Character Lenght,Karakter Uzunluğu,Charakter Lenght,Personnage Lenght,문자 길이,Longitud de personaje
+Include_Uppercase_Letters,Include Uppercase Letters,Büyük harfleri dahil et,Großbuchstaben enthalten,Inclure des lettres majuscules,대문자를 포함하십시오,Incluir letras mayúsculas
+Include_Lowercase_Letters,Include Lowercase Letters,Küçük harfleri dahil et,Kleinbuchstaben enthalten,Inclure les lettres minuscules,소문자를 포함하십시오,Incluir letras minúsculas
+Include_Numbers,Include Numbers,Numaraları dahil et,Zahlen einschließen,Inclure les chiffres,숫자를 포함하십시오,Incluir números
+Include_Symbols,Include Symbols,Sembolleri dahil et,Symbole einschließen,Inclure les symboles,기호를 포함하십시오,Incluir símbolos
+Strenght,STRENGHT,Güç,Streng,FORCE,강도,Fortalecer
+Generate,GENERATE,ŞİFRE ÜRET,GENERIEREN,PRODUIRE,생성하다,GENERAR
+Add_Category,Add Category,Kategori Ekle,Kategorie hinzufügen,Ajouter une catégorie,카테고리 추가,Añadir categoría
+Category_Name,Category name,Kategori ismi,Kategorie name,Nom de catégorie,카테고리 이름,Nombre de la categoría
+CATEGORIES,Categories,Kategoriler,Kategorien,Catégories,카테고리,Categorías
+Work,Work,İş,Arbeit,Travail,일하다,Trabaja
+Games,Games,Oyunlar,Spiele,Jeux,계략,Juegos
+Social Media,Social Media,Sosyal Medya,Sozialen Medien,Des médias sociaux,소셜 미디어,Medios de comunicación social
+Choose_Language,Choose Language,Dili Seç,Sprache wählen,Choisissez la langue,언어를 선택하십시오,Elige lengua
+Saved_Password,Saved Password,Kayıtlı Şifreler,Speichern Passwort,Mot de passe enregistré,저장된 비밀번호,Contraseña guardada
+All,All,Tümü,Alle,Tous,모두,Todas
+Save_Password,Save Password,Şifreyi Kaydet,Passwort Speichern,Sauvegarder le mot de passe,비밀번호를 저장합니다,Guardar Contraseña
+Password_Name,Password name,Şifre ismi,Passwort name,Nom de mot de passe,비밀번호 이름,Nombre de contraseña
+Save,SAVE,KAYDET,SPEICHERN,SAUVEGARDER,저장,SALVAR
+Are_U_Sure?,Are you sure?,Emin misin?,Bist du sicher?,Êtes-vous sûr?,확실합니까?,¿Está seguro?
+Back,Back,Geri,Der Rücken,Dos,뒤쪽에,Atrás
+Delete,Delete,Sil,Löschen,Supprimer,삭제,Borrar
+Edit_Name,Edit name,İsmi Düzenle,Namen Bearbeiten,Modifier le nom,이름 편집,Editar Nombre
+New_Name,New name,Yeni isim,Neuer name,Nouveau nom,새로운 이름,Nuevo nombre
+Edit,Edit,Düzenle,Bearbeiten,Éditer,편집하다,Editar
+Category_Emojis,Category Emojis,Kategori Emojisi,Kategorie Emojis,Emojis de catégorie,카테고리 이모티콘,Emojis de categoría
+Category_Null,Category name cannot  be null,Kategori isimi boş olamaz,Der Kategorienname kann nicht null sein,Le nom de catégorie ne peut pas être nul,카테고리 이름은 null이 될 수 없습니다,El nombre de la categoría no puede ser nulo
+Success,Successfully saved,Kayıt başarılı,Erfolgreich gespeichert,Enregistré avec succès,성공적으로 저장되었습니다,Guardado con éxito
+Saved_Error,There is a password registered to this category.,Bu kategoriye kayıtlı şifre var,Für diese Kategorie wird ein Passwort registriert.,Il y a un mot de passe enregistré dans cette catégorie.,이 범주에 등록 된 암호가 있습니다.,Hay una contraseña registrada en esta categoría.
+Pass_Copied,Password Copied,Şifre Kopyalandı,Passwort Kopiert,Mot de passe copié,비밀번호 복사,Contraseña Copiada
+Low,Low,Düşük,Niedrig,Bas,낮은,Bajo
+Medium,Medium,Orta,Mittel,Moyen,중간,Medio
+High,High,Yüksek,Hoch,Haute,높은,Alto
+Name_Null,Name cannot be null,İsim boş olamaz,Name kann nicht null sein,Le nom ne peut pas être nul,이름은 null이 될 수 없습니다,El nombre no puede ser nulo
+Log_Message,Click on the screen and enter your password,Devam etmek için ekrana dokunun ve şifrenizi girin,Klicken Sie auf den Bildschirm und geben Sie Ihr Passwort ein,Cliquez sur l'écran et entrez votre mot de passe,화면을 클릭하고 비밀번호를 입력하십시오,Haga clic en la pantalla e ingrese su contraseña
+Settings,Settings,Ayarlar,Einstellungen,Paramètres,설정,Ajustes
+Profil,Profile,Profil,Profil,Profil,프로필,Perfil
+Language,Language,Dil,Sprache,Langue,언어,Idioma
+Remember_me,Remember me,Beni Hatırla,Erinnere dich an mich,Souviens-toi de moi,날 기억해,Recuérdame
+Email,Email,E -posta,Email,E-mail,이메일,Correo electrónico
+Password,Password,Parola,Passwort,Mot de passe,비밀번호,Contraseña
+With_Google,Sign in with Google,Google ile giriş yap,Anmeldung mit Google,Connectez-vous avec Google,Google에 로그인하십시오,Inicia sesión con Google
+With_Apple,Sign in with Apple,Apple ile oturum açın,Melden Sie sich mit Apple an,Connectez-vous avec Apple,Apple과 로그인하십시오,Iniciar sesión con Apple
+Dont_have_account,Don't have an account?,Hesabınız yok mu?,Sie haben kein Konto?,Vous n'avez pas de compte?,계정이 없습니까?,¿No tienes una cuenta?
+Signup_here,Signup here,Kayıt buraya,Hier anmelden,Inscription ici,여기에 가입하십시오,Registrate aquí
+Forgot_Password, Forgot Password?, Parolanızı mı unuttunuz?, Passwort vergessen?, Mot de passe oublié?, 비밀번호를 잊으 셨나요?, ¿Has olvidado tu contraseña?
+Send_email,Send Email,Eposta gönder,E-Mail senden,Envoyer un e-mail,이메일을 보내,Enviar correo electrónico
+Name,Name,İsim,Name,Nom,이름,Nombre
+Register,Register,Kayıt ol,Registrieren,S'inscrire,등록하다,Registro
+Login,Login,Giriş yap,Anmeldung,Connexion,로그인,Acceso
+verify_null,Please enter email,Lütfen email giriniz,Bitte geben Sie eine E -Mail ein,Veuillez saisir le courrier électronique,이메일을 입력하십시오,Por favor ingrese el correo electrónico
+Create_password,Please Create password to use the app,Uygulamayı kullanmak için lütfen bir şifre oluşturun,"Bitte erstellen Sie Passwort, um die App zu verwenden",Veuillez créer un mot de passe pour utiliser l'application,앱을 사용하려면 비밀번호를 작성하십시오,Cree contraseña para usar la aplicación
+Finger_Print,Scan Fingerprint,Parmak izini okut,Fingerabdruck scannen,Scan Empreinte digitale,지문을 스캔하십시오,Escanear huellas digitales
+Create_pass_phone,create a password for the phone,telefona şifre izi oluştur,Erstellen Sie ein Passwort für das Telefon,Créer un mot de passe pour le téléphone,전화기의 비밀번호를 만듭니다,crear una contraseña para el teléfono
+Info,Info,Bilgi,Die Info,Info,정보,Información
+Click_button,Click to button,Butona dokunun,Klicken Sie auf die Schaltfläche,Cliquez sur le bouton,버튼을 클릭하십시오,Haga clic en el botón
+Scan_txt,"If your phone has a password, click this button on the page and log in with the password.","Telefonunuzun şifresi  var ise  ,sayfada bu butona tıklayın ve şifre  ile giriş yapın.",,"Si votre téléphone a un mot de passe, cliquez sur ce bouton sur la page et connectez-vous avec le mot de passe.",휴대 전화에 암호가있는 경우 페이지 에서이 버튼을 클릭하고 비밀번호로 로그인하십시오.,"Si su teléfono tiene una contraseña, haga clic en este botón en la página e inicie sesión con la contraseña."
+Create_txt,"If you don't have a password on your phone, click this button on the page and add the password to the phone from the settings.","Telefonunuzda şifre yoksa , sayfada bu butona tıklayın ve telefona ayarlardan şifre ekleyin.","Wenn Sie kein Passwort auf Ihrem Telefon haben, klicken Sie auf diese Schaltfläche auf der Seite und fügen Sie das Passwort dem Telefon aus den Einstellungen hinzu.","Si vous n'avez pas de mot de passe sur votre téléphone, cliquez sur ce bouton sur la page et ajoutez le mot de passe au téléphone à partir des paramètres.",휴대 전화에 암호가없는 경우 페이지 에서이 버튼을 클릭하고 설정에서 휴대 전화에 암호를 추가하십시오.,"Si no tiene una contraseña en su teléfono, haga clic en este botón en la página y agregue la contraseña al teléfono desde la configuración."
+or,or,veya,oder ,ou alors ,또는 ,o 
+Confirm_password,Confirm Password,Şifreyi Onayla,Kennwort bestätigen,Confirmez le mot de passe,비밀번호 확인,Confirmar contraseña
+no_null,Please do not leave empty space,lütfen boş alan bırakmayınız,Bitte lassen Sie keinen leeren Raum,Veuillez ne pas laisser d'espace vide,빈 공간을 떠나지 마십시오,"Por favor, no deje espacio vacío"
+Pass_not_same,The passwords are not the same,Şifreler aynı değil,Die Passwörter sind nicht gleich,Les mots de passe ne sont pas les mêmes,암호는 동일하지 않습니다,Las contraseñas no son las mismas
+account,Account,Hesap,Konto,Compte,계정,Cuenta
+Welcome,Welcome,Hoş geldin,Herzlich willkommen,Bienvenue,어서 오십시오,Bienvenidos
+Account_Name,Account name,Hesap adı,Kontobezeichnung,Nom du compte,계정 이름,Nombre de la cuenta
+Account_Email,Account_Email,Hesap E-posta,Konto-E-Mail,compte email,계정 이메일,cuenta de email
+Password_Reset,Password reset,Parola sıfırlama,Passwort zurücksetzen,Réinitialisation du mot de passe,비밀번호 초기화,Restablecimiento de contraseña
+Photo_Add,Photo add,Fotoğraf eklemek,Füge ein Foto hinzu,Ajouter une photo,사진을 추가하십시오,Agregar una foto
+Sign_out,Sign Out,Oturumu Kapat,Ausloggen,Déconnexion,로그 아웃하십시오,desconectar
+Sign_In,Sign in,Kayıt olmak,Registrieren,S'inscrire,등록하다,Registro
+Not_Implement_yet,Not yet implemented,Henüz uygulanmadı,Noch nicht implementiert,Pas encore implémenté,아직 구현되지 않았습니다,Aun no implementado
+Send_Email,Email sent.,Email gönderildi.,E-Mail gesendet.,Email envoyé.,이메일을 보냈습니다.,Email enviado.
+unknown,Not found,Bulunamadı,Nicht gefunden,Pas trouvé,찾을 수 없습니다,Extraviado
+answer_must_be_at_last_3,Answer must be at last 3,Cevap en az üç haneli olmalı,Die Antwort muss mindestens drei Ziffern betragen,La réponse doit être au moins trois chiffres,대답은 최소 3 자리 이상이어야합니다,La respuesta debe ser al menos tres dígitos
+In_what_city_were_you_born?,In what city were you born?,Hangi şehirde doğdunuz?,Welche Stadt wurden Sie geboren?,Quelle ville êtes-vous née?,당신은 어느 도시에 태어 났습니까?,¿Qué ciudad naciste?
+What_is_the_name_of_your_favorite_pet?,What is the name of your favorite pet?,En sevdiğin evcil hayvanın adı?,Der Name Ihres Lieblings -Haustieres?,Le nom de votre animal préféré?,좋아하는 애완 동물의 이름?,¿El nombre de tu mascota favorita?
+What_high_school_did_you_attend?,What high school did you attend?,Lise'de okuduğunuz okulun adı?,"Der Name der Schule, die Sie an der High School studieren?",Le nom de l'école que vous étudiez au lycée?,고등학교에서 공부하는 학교의 이름?,¿El nombre de la escuela que estudias en la escuela secundaria?
+What_was_your_favorite_food_as_a_child?,What was your favorite food as a child?,Çocukken en sevdiğiniz  yemek neydi?,Was war dein Lieblingsessen als Kind?,Quel était votre repas préféré quand vous étiez enfant?,어린 시절 가장 좋아하는 식사는 무엇 이었습니까?,¿Cuál fue tu comida favorita cuando era niño?
+Answer,Answer,Cevap,Antwort,Réponse,댓글,respuesta
+Security_Question,Security Question,Güvenlik sorusu,Sicherheitsfrage,Question de sécurité,보안 질문,Pregunta de seguridad
+Dont_Forget,You should not forget this answer,Bu cevabı unutmamanız gerekli,Sie sollten diese Antwort nicht vergessen,Tu ne devrais pas oublier cette réponse,이 답을 잊지 말아야합니다,No deberías olvidar esta respuesta
+Answer_null,Answer is not to be null,Cevap boş olmamalı,Die Antwort sollte nicht leer sein,La réponse ne doit pas être vide,대답은 비어 있지 않아야합니다,La respuesta no debe estar vacía
+generate_password,Generate passwords,Şifreler üret,Kennwörter erzeugen,Produire des mots de passe,비밀번호를 생성합니다,Producir contraseñas
+next,Next,İleri,Nach vorne,Vers l'avant,앞으로,Adelante
+back,Back,Geri,Der Rücken,Dos,뒤쪽에,atrás
+go,Go,Başla,Start,Début,시작,Comienzo
+generate_passwords_description,Select and create the characters you want in your password,Şifrenizde olmasını istediğiniz karakterleri seçin ve oluşturun.,"Wählen Sie die Zeichen aus und erstellen Sie die Zeichen, die Sie in Ihrem Passwort sein möchten.",Sélectionnez et créez les caractères que vous souhaitez être dans votre mot de passe.,비밀번호에 원하는 문자를 선택하고 만듭니다.,Seleccione y cree los caracteres que desea estar en su contraseña.
+save_description,Save your password under the category name you want.,Şifrenizi istediğiniz kategori adı altında kaydedin.,Speichern Sie Ihr Passwort unter dem Namen der gewünschten Kategorie.,Enregistrez votre mot de passe sous le nom de la catégorie souhaitée.,원하는 카테고리의 이름으로 비밀번호를 저장하십시오.,Guarde su contraseña bajo el nombre de la categoría que desea.
+add_category_description,You can create your own category if you wish.,Dilerseniz kendinize özel kategori oluşturabilirisiniz.,"Wenn Sie möchten, können Sie Ihre eigene Kategorie erstellen.","Si vous le souhaitez, vous pouvez créer votre propre catégorie.",원하는 경우 자신의 카테고리를 만들 수 있습니다.,"Si lo desea, puede crear su propia categoría."
+safe_passwords,Your passwords are now safe,Şifrelerin artık güvende,Ihre Passwörter sind jetzt sicher,Vos mots de passe sont maintenant sûrs,이제 비밀번호가 안전합니다,Sus contraseñas ahora son seguras
+safe_passwords_description,"Don't worry, your passwords are safe with SHA256 and AES256.Only you can see your passwords.",Merak etmeyin SHA256 ve AES256 ile şifreleriniz güvende. Şifrelerinizi sadece siz görebilirsiniz.,"Machen Sie sich keine Sorgen, Ihre Passwörter sind mit SHA256 und AES256 sicher. Sie können Ihre Passwörter nur sehen.","Ne vous inquiétez pas, vos mots de passe sont sûrs avec SHA256 et AES256. Vous ne pouvez voir que vos mots de passe.",걱정하지 마십시오. 비밀번호는 SHA256 및 AES256으로 안전합니다. 비밀번호 만 볼 수 있습니다.,"No se preocupe, sus contraseñas son seguras con SHA256 y AES256. Solo puedes ver tus contraseñas."
+please_insert_password,Please insert password,Lütfen şifreyi giriniz,Bitte geben Sie das Passwort ein,S'il vous plaît entrer le mot de passe,비밀번호를 입력하십시오,Por favor introduzca la contraseña
+email-already-in-use,An account already exists for this email.,Bu e-posta için zaten bir hesap var.,Es gibt bereits ein Konto für diese E-Mail.,Il y a déjà un compte pour cet e-mail.,이 이메일에 대한 계정이 이미 있습니다.,Ya hay una cuenta para este correo electrónico.
+invalid-email,Wrong email. Please check your password.,Yanlış email. Lütfen şifrenizi kontrol edin.,Falsche E-mail. Bitte überprüfen Sie Ihr Passwort.,Mauvaise adresse mail. Veuillez vérifier votre mot de passe.,잘못된 이메일. 비밀번호를 확인하십시오.,Email incorrecto. Verifique su contraseña.
+user-disabled,This user cannot login to this account because it has been disabled.,"Bu kullanıcı, devre dışı bırakıldığı için bu hesaba giriş yapamıyor.","Dieser Benutzer kann dieses Konto nicht eingeben, da es deaktiviert ist.",Cet utilisateur ne peut pas entrer ce compte car il est désactivé.,이 사용자는이 계정이 비활성화되어 있기 때문에이 계정을 입력 할 수 없습니다.,Este usuario no puede ingresar esta cuenta porque está deshabilitado.
+user-not-found,No user found for this information.,Bu bilgi için kullanıcı bulunamadı.,Der Benutzer wurde für diese Informationen nicht gefunden.,L'utilisateur n'a pas été trouvé pour ces informations.,이 정보는 사용자가 찾을 수 없었습니다.,El usuario no fue encontrado para esta información.
+wrong-password,Wrong password. Please check your password.,Yanlış şifre. Lütfen şifrenizi kontrol edin.,Falsches Passwort. Bitte überprüfen Sie Ihr Passwort.,Mauvais mot de passe. Veuillez vérifier votre mot de passe.,잘못된 비밀번호. 비밀번호를 확인하십시오.,Contraseña incorrecta. Verifique su contraseña.
+account-exists-with-different-credential,This account already exists with a different credential. Please sign in with the correct credential.,"Bu hesap, farklı bir kimlik bilgisi ile zaten var. Lütfen doğru kimlik bilgileriyle oturum açın.",Dieses Konto existiert bereits mit anderen Identitätsinformationen. Bitte melden Sie sich mit den richtigen Identitätsinformationen an.,Ce compte existe déjà avec des informations d'identité différentes. Veuillez vous connecter avec les informations d'identité correctes.,이 계정은 이미 다른 신원 정보와 함께 존재합니다. 올바른 신원 정보로 로그인하십시오.,Esta cuenta ya existe con una información de identidad diferente. Inicie sesión con la información de identidad correcta.
+invalid-credential,The credential is malformed or has expired.,Kimlik bilgisi hatalı biçimlendirilmiş veya süresi dolmuş.,Identitätsinformationen sind falsch geformt oder abgelaufen.,Les informations d'identité sont mal façonnées ou expirées.,신원 정보가 잘못 형성되거나 만료되었습니다.,La información de identidad tiene forma incorrecta o caduca.
+operation-not-allowed,This operation is not allowed. Please contact support.,Bu işleme izin verilmiyor. Lütfen destekle iletişime geçin.,Dieser Prozess ist nicht erlaubt. Bitte wenden Sie sich an Support.,Ce processus n'est pas autorisé. Veuillez contacter le support.,이 과정은 허용되지 않습니다. 지원에 연락하십시오.,Este proceso no está permitido. Póngase en contacto con el soporte.
+invalid-verification-code,The verification code is malformed or has expired.,Doğrulama kodu hatalı biçimlendirilmiş veya süresi dolmuş.,Der Verifizierungscode ist falsch geformt oder abgelaufen.,Le code de vérification est mal en forme ou expiré.,확인 코드가 잘못 형성되거나 만료되었습니다.,El código de verificación tiene forma incorrecta o caduca.
+network-request-failed,Please check your internet connection.,"Lütfen internet bağlantınızı kontrol edin.","Bitte überprüfe deine Internetverbindung.","S'il vous plait, vérifiez votre connexion internet.","인터넷 연결을 확인하십시오.","Por favor revise su conexion a internet."
+invalid-verification-id,The verification ID is malformed.,Doğrulama kimliği hatalı biçimlendirilmiş.,Die Überprüfidentität ist falsch geformt.,L'identité de vérification est de façon incorrecte.,확인 ID가 잘못 형성되었습니다.,La identidad de verificación tiene forma incorrecta.
+admin-restricted-operation,This operation is disabled.,Bu işlem devre dışı bırakıldı.,Dieser Prozess war deaktiviert.,Ce processus a été désactivé.,이 과정은 비활성화되었습니다.,Este proceso fue deshabilitado.
+not_save_pass,You did not save a password.,Şifre kaydetmediniz,Sie haben kein Passwort gespeichert,Vous n'avez pas enregistré de mot de passe,비밀번호를 저장하지 않았습니다,No guardó una contraseña
+add_your_password,Add your password,Kendi şifrenizi kaydedin,Speichern Sie Ihr eigenes Passwort,Enregistrez votre propre mot de passe,자신의 비밀번호를 저장하십시오,Guarde su propia contraseña
+password_saved,Password saved,Şifre kaydedildi,Passwort gespeichert,Mot de passe enregistré,비밀번호 저장,Contraseña guardada

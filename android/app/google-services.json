@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230958187957",
+    "project_id": "pgenerator-8fdfc",
+    "storage_bucket": "pgenerator-8fdfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230958187957:android:81138245265738bd09c5fc",
+        "android_client_info": {
+          "package_name": "com.example.password_generator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230958187957-gmdr39i16qbns9vicgv1luknoqm0chnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB44bAwi6HLizcpWBjHtg6gbcoeJWi72v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230958187957-gmdr39i16qbns9vicgv1luknoqm0chnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

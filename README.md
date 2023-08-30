@@ -1,4 +1,4 @@
-
+it is an application for creating and saving passwords. when the user enters the application, he logs in with the finger reader or password stored on the phone. if he does not have a password, he is directed to the password creation page. when the user enters from another phone, a security question is asked so that the user can only see his own passwords safely. The user creates his password and selects the header to save it. if he wishes, he can create the header himself. the saved password is first encrypted with sha256 and saved in firebase. in the password retrieval part, the encrypted password is decrypted again and the data is retrieved so that only that user can view it. 6 different language options are available. it is extremely secure. it is actively used in the company where I do my internship.
 ![pass](https://github.com/synarda/Movie-App/assets/67860630/1a5e6663-f036-409a-9384-b0a4091b26ba)
 
 ![pass1](https://github.com/synarda/Movie-App/assets/67860630/137ec7a1-e45c-4d43-b4fa-6322632b1759)
